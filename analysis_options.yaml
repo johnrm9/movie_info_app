@@ -25,6 +25,7 @@ analyzer:
     implicit-dynamic: false
 
   errors:
+    unnecessary_const: warning
     sized_box_for_whitespace: ignore
     sort_pub_dependencies: ignore
     # treat missing required parameters as a warning (not a hint)
