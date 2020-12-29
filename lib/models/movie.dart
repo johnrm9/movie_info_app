@@ -10,6 +10,7 @@ const List<String> genres = <String>[
   'Horror',
   'Fantasy',
   'Animation',
+  'Documentary'
 ];
 
 class Movie {
