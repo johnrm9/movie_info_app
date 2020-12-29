@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "movie_info_app (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
