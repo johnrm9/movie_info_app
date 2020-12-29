@@ -54,7 +54,7 @@ class CastAndCrew extends StatelessWidget {
             ),
             const SizedBox(height: kDefaultPadding / 2),
             SizedBox(
-              height: 160,
+              height: 160, // was 160
               child: ListView.builder(
                 scrollDirection: Axis.horizontal,
                 itemCount: casts.length,
